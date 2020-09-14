@@ -1,7 +1,7 @@
 # Eco_kinetic_model
 
 ## Description
-This repository contains a kinetic model of Escherichia coli cell growth and GlcNAc biosynthesis, the matlab code are provided as Eco_GlcNAc.m  
+This repository contains a kinetic model of Escherichia coli cell growth and GlcNAc biosynthesis, the MATLAB code are provided as Eco_GlcNAc.m  
 
 The development of the kinetic model was mainly based on four kinetics, including the growth kinetic model of acetic acid-producing E. coli developed by Luli et al., Monod equation describing nutrient limitation, acetate synthesis and specific growth rate equations determined by Basan et al., and Michaelis-Menten equation describing the biosynthesis pathway of GlcNAc.   
 This model mainly captures three characteristics of engineered E. coli in fermentation experiments:   
