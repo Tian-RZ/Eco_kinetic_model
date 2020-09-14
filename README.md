@@ -7,7 +7,7 @@ This repository contains a kinetic model of Escherichia coli cell growth and Glc
 >This model mainly captures three characteristics of engineered E. coli in fermentation experiments:   
 >>1) addition of pAcF can change the specific growth rate by regulating the flux of the glycolytic pathway;  
 >>2) accumulation of acetate can inhibit both cell growth and biosynthesis of target metabolites and acetate;  
->>3) cell growth is also limited by the concentration of nutrients (especially nitrogen sources) in the medium.   
+>>3) cell growth is also limited by the concentration of nutrients (especially nitrogen sources) in the medium.  
 >Besides, concentrations of metabolites and all parameters in the model are expressed in arbitrary units (a.u.) which is sufficient to qualitatively simulate the dynamic characteristics of metabolites and biomass.  
 
 ## People who contributed to this project
