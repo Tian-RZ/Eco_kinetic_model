@@ -22,3 +22,4 @@ This repository contains a kinetic model of Escherichia coli cell growth and Glc
 **Jian Chen**, Key Laboratory of Industrial Biotechnology, Ministry of Education, Jiangnan University, Wuxi 214122, China; National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan University, Wuxi 214122, China  
 
 ## Reference
+Tian, R., Liu, Y., Cao, Y., Zhang, Z., Li, J., Liu, L., Du, G., Chen, J. (2020). Titrating bacterial growth and chemical biosynthesis for efficient N-acetylglucosamine and N-acetylneuraminic acid bioproduction Nature Communications  11(1), 5078. https://dx.doi.org/10.1038/s41467-020-18960-1
